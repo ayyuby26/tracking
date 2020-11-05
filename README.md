@@ -1,7 +1,8 @@
 #### Tracking
-untuk melihat, download, dan melakukan create update delete data
+Untuk melihat, download, dan melakukan create update delete data.
 
-dibuat dengan:
+
+Dibuat dengan:
 - Codeigniter 3
 - Template Bootstrap 4
 - DBMS MySQL
